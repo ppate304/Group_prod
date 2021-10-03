@@ -1,0 +1,30 @@
+.center {
+    position: absolute;
+    top: 30%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+.Lorem {
+    position: absolute;
+    top: 47%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+    color: white;
+    width: 200px;
+}
+.Welcome {
+    position: absolute;
+    top: 75%;
+    left: 12%;
+    transform: translate(-50%, -50%);
+}
+.Loremthree {
+   position: absolute;
+   width: 450px;
+   top: 78%;
+   left: 5%;
+
+
+}
+
